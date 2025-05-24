@@ -1,16 +1,76 @@
-## Hi there 👋
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="description" content="Eduardo Severiche Bejarano - Creador de contenido, modelo en formación y estudiante de gastronomía" />
+  <title>Eduardo Severiche Bejarano</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #f4f4f4;
+      color: #333;
+    }
+    header {
+      background-color: #111;
+      color: white;
+      padding: 2rem 1rem;
+      text-align: center;
+    }
+    main {
+      padding: 2rem;
+      max-width: 800px;
+      margin: auto;
+    }
+    h1 {
+      font-size: 2.5rem;
+    }
+    p {
+      line-height: 1.6;
+    }
+    .social {
+      margin-top: 2rem;
+      text-align: center;
+    }
+    .social a {
+      margin: 0 10px;
+      text-decoration: none;
+      color: #0077cc;
+      font-weight: bold;
+    }
+    footer {
+      background-color: #111;
+      color: white;
+      text-align: center;
+      padding: 1rem;
+      margin-top: 4rem;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Eduardo Severiche Bejarano</h1>
+    <p>Creador de contenido, modelo en formación y estudiante de gastronomía</p>
+  </header>
 
-<!--
-**eduardo-severiche/eduardo-severiche** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <main>
+    <p><strong>Eduardo Severiche Bejarano</strong> es un creador de contenido, modelo en formación y estudiante de gastronomía originario de Bolivia. Con una presencia vibrante en plataformas como TikTok e Instagram, Eduardo ha conquistado a miles de seguidores con su autenticidad, carisma y creatividad.</p>
 
-Here are some ideas to get you started:
+    <p>Apasionado por la moda, el arte visual y la cocina, Eduardo combina sus intereses en redes sociales con su formación en gastronomía, explorando nuevas formas de expresarse y conectar con su audiencia. También participa como modelo en sesiones fotográficas y colaboraciones de estilo urbano, llevando su contenido a un nivel visual y artístico.</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    <p>Desde Cochabamba, Bolivia, documenta su día a día, bailes, retos virales, tendencias digitales, estilos de moda y experiencias gastronómicas. Su meta es consolidarse como una figura influyente del contenido juvenil, expandirse en el modelaje y abrirse camino en el mundo culinario.</p>
+
+    <div class="social">
+      <p>Sígueme:</p>
+      <a href="https://www.tiktok.com/@eduardo_sb03" target="_blank" rel="noopener noreferrer">TikTok</a>
+      <a href="https://www.instagram.com/eduardo_sb03" target="_blank" rel="noopener noreferrer">Instagram</a>
+    </div>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 Eduardo Severiche Bejarano. Todos los derechos reservados.</p>
+  </footer>
+</body>
+</html>
